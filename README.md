@@ -8,8 +8,9 @@ As Generative AI tools like ChatGPT, Copilot, and Gemini become deeply embedded 
 Whether you're a researcher, educator, data scientist, or policymaker, this dataset offers fertile ground for exploring the benefits and risks of AI adoption in higher education.
 
 
-**Business Questions:**
-1. Does using AI more frequently affect students' academic performance?
+## **Business Questions:**
+
+### 1. Does using AI more frequently affect students' academic performance?
 
 2. Does AI usage reduce students traditional study time?
 
