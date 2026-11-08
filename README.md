@@ -7,7 +7,7 @@ he growing adoption of Generative AI tools such as ChatGPT, Microsoft Copilot an
 This project explores the impact of AI adoption on students in higher education by analysing data across multiple dimensions, including AI usage patterns, academic performance, study behaviour, AI dependency, skill retention and student well-being. Through data analytics and machine learning, the project aims to provide a better understanding of how students interact with AI and the potential benefits and challenges associated with its growing use in education.
 
 ## **Objectives**
-1.Formulate six business questions to investigate the impact of Generative AI on students' academic performance, skill retention, AI usage patterns and psychological well-being.
+1. Formulate six business questions to investigate the impact of Generative AI on students' academic performance, skill retention, AI usage patterns and psychological well-being.
 
 2. Develop a Google Looker Studio dashboard to visualise key findings, identify trends and explore relationships between AI usage and student outcomes.
 
