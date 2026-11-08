@@ -49,13 +49,18 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 <img width="1189" height="495" alt="Q5" src="https://github.com/user-attachments/assets/7ba17a0d-e098-471d-b93e-71877b590938" />
 
-
+**Insights:**
+- Students with High AI Usage face the highest High Burnout Risk at ~56%, which is over 2.5 times higher than Medium Usage (~21%) and nearly 5.6 times higher than Low Usage (~10%).
+- EdTech platforms and universities must incorporate wellness features, workload management, and healthy usage guidelines into AI tools to prevent student over-reliance and burnout.
 
 
 ### 6. Does prompt engineering skill influence students' academic performance?
 
 <img width="1189" height="495" alt="Q6" src="https://github.com/user-attachments/assets/c21f44a4-7c45-4f0b-90b3-3ffbfe5fa684" />
 
+**Insights:**
+- Median post-semester GPA remains nearly identical across all prompt engineering skill levels, peaking slightly at ~3.48 for Advanced users compared to ~3.40 for both Beginner and Intermediate levels.
+- EdTech platforms should avoid marketing prompt engineering skills as a direct driver of higher academic grades, and instead focus on positioning these skills around workflow efficiency, creativity, and time management.
 
 
 
