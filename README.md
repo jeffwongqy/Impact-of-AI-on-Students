@@ -2,7 +2,7 @@
 
 ## **Background:**
 
-he growing adoption of Generative AI tools such as ChatGPT, Microsoft Copilot and Google Gemini is transforming how students learn, study and complete academic tasks. While these tools offer opportunities to improve learning efficiency, academic performance and productivity, concerns remain about their potential effects on students' independent learning, critical thinking, skill retention and psychological well-being.
+The growing adoption of Generative AI tools such as ChatGPT, Microsoft Copilot and Google Gemini is transforming how students learn, study and complete academic tasks. While these tools offer opportunities to improve learning efficiency, academic performance and productivity, concerns remain about their potential effects on students' independent learning, critical thinking, skill retention and psychological well-being.
 
 This project explores the impact of AI adoption on students in higher education by analysing data across multiple dimensions, including AI usage patterns, academic performance, study behaviour, AI dependency, skill retention and student well-being. Through data analytics and machine learning, the project aims to provide a better understanding of how students interact with AI and the potential benefits and challenges associated with its growing use in education.
 
