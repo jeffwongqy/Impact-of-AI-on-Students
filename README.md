@@ -1,6 +1,6 @@
 # Impact of AI on Students
 
-## **Background:**
+## **Background**
 
 The growing adoption of Generative AI tools such as ChatGPT, Microsoft Copilot and Google Gemini is transforming how students learn, study and complete academic tasks. While these tools offer opportunities to improve learning efficiency, academic performance and productivity, concerns remain about their potential effects on students' independent learning, critical thinking, skill retention and psychological well-being.
 
