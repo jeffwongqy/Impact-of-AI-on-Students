@@ -2,9 +2,18 @@
 
 ## **Background:**
 
-As Generative AI tools like ChatGPT, Copilot, and Gemini become deeply embedded in academic life, understanding their true impact on students has never been more critical. This dataset provides a rich, multi-dimensional snapshot of student interactions with AI — spanning academic outcomes, behavioral patterns, institutional context, and psychological well-being.
+he growing adoption of Generative AI tools such as ChatGPT, Microsoft Copilot and Google Gemini is transforming how students learn, study and complete academic tasks. While these tools offer opportunities to improve learning efficiency, academic performance and productivity, concerns remain about their potential effects on students' independent learning, critical thinking, skill retention and psychological well-being.
 
-Whether you're a researcher, educator, data scientist, or policymaker, this dataset offers fertile ground for exploring the benefits and risks of AI adoption in higher education.
+This project explores the impact of AI adoption on students in higher education by analysing data across multiple dimensions, including AI usage patterns, academic performance, study behaviour, AI dependency, skill retention and student well-being. Through data analytics and machine learning, the project aims to provide a better understanding of how students interact with AI and the potential benefits and challenges associated with its growing use in education.
+
+## **Objectives**
+1.Formulate six business questions to investigate the impact of Generative AI on students' academic performance, skill retention, AI usage patterns and psychological well-being.
+
+2. Develop a Google Looker Studio dashboard to visualise key findings, identify trends and explore relationships between AI usage and student outcomes.
+
+3. Apply multiple linear regression to predict students' post-semester GPA using relevant features such as AI usage hours, traditional study habits, academic background and other student characteristics.
+
+4. Interpret the analytical and predictive results to better understand the potential benefits and challenges of Generative AI adoption in higher education.
 
 ## Data Cleansing
 Data cleansing was performed using Claude AI based on a predefined prompt to inspect all rows and features, identify missing values, duplicates, inconsistent formats, incorrect data types and invalid entries. Appropriate cleaning methods were applied, and the cleaned dataset was exported as ai_student_impact_cleaned.csv.
@@ -83,6 +92,10 @@ You are a professional data analyst. Carefully inspect the entire dataset and cl
 
 
 ## Predictive Modelling (Regression) 
+
+
+1. Connection Between Six Business Questions and Regression
+
 
 
 
