@@ -12,15 +12,49 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 ### 1. Does using AI more frequently affect students' academic performance?
 
-2. Does AI usage reduce students traditional study time?
+<img width="996" height="494" alt="Q1" src="https://github.com/user-attachments/assets/e3e850d4-947a-4195-868a-06a381f55794" />
 
-3. Which academic majors uses AI the most?
 
-4. Does AI dependency affect students' skill retention?
 
-5. Which students have the highest burnout risk?
+### 2. Does AI usage reduce students traditional study time?
 
-6. Does prompt engineering skill influence students' academic performance?
+<img width="993" height="494" alt="Q2" src="https://github.com/user-attachments/assets/be1db70b-0db3-412e-af4a-69c5db99fc71" />
+
+
+
+
+### 3. Which academic majors uses AI the most?
+
+<img width="1189" height="495" alt="Q3" src="https://github.com/user-attachments/assets/3d34371d-91a1-47c5-8c7c-577bd14ce414" />
+
+
+
+
+### 4. Does AI dependency affect students' skill retention?
+
+<img width="1189" height="494" alt="Q4" src="https://github.com/user-attachments/assets/9f43eaf8-c5be-4e0b-a75d-afec05f6d91f" />
+
+
+
+
+### 5. Which students have the highest burnout risk?
+
+<img width="1189" height="495" alt="Q5" src="https://github.com/user-attachments/assets/7ba17a0d-e098-471d-b93e-71877b590938" />
+
+
+
+
+### 6. Does prompt engineering skill influence students' academic performance?
+
+<img width="1189" height="495" alt="Q6" src="https://github.com/user-attachments/assets/c21f44a4-7c45-4f0b-90b3-3ffbfe5fa684" />
+
+
+
+
+
+
+
+
 
 
 Data Cleansing:
