@@ -31,14 +31,18 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 <img width="1189" height="495" alt="Q3" src="https://github.com/user-attachments/assets/3d34371d-91a1-47c5-8c7c-577bd14ce414" />
 
-
+**Insights:**
+- STEM majors lead GenAI adoption with highest weekly usage at ~10.5 hours, followed by Business (~8.3 hrs), Medical (~7.5 hrs), Arts (~7.3 hrs), and Humanities trailing at ~6.8 hours.
+- EdTech developers should prioritize specialized coding, technical, and analytical AI features for high-frequency STEM users while creating tailored marketing to encourage adoption among lower-use majors like Humanities.
 
 
 ### 4. Does AI dependency affect students' skill retention?
 
 <img width="1189" height="494" alt="Q4" src="https://github.com/user-attachments/assets/9f43eaf8-c5be-4e0b-a75d-afec05f6d91f" />
 
-
+**Insights:**
+- High AI dependency reduces the median skill retention score to ~71, compared to ~76 for both Low and Moderate AI dependency groups.
+- EdTech platforms and training providers should design interactive learning features that limit over-reliance on AI, ensuring users retain core skills alongside automated assistance.
 
 
 ### 5. Which students have the highest burnout risk?
