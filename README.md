@@ -62,7 +62,7 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 - Median post-semester GPA remains nearly identical across all prompt engineering skill levels, peaking slightly at ~3.48 for Advanced users compared to ~3.40 for both Beginner and Intermediate levels.
 - EdTech platforms should avoid marketing prompt engineering skills as a direct driver of higher academic grades, and instead focus on positioning these skills around workflow efficiency, creativity, and time management.
 
-
+## Google Data Studio
 
 
 
