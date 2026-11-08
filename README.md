@@ -17,7 +17,9 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 4. Does AI dependency affect students' skill retention?
 
-5. Does prompt engineering skill influence students' academic performance?
+5. Which students have the highest burnout risk?
+
+6. Does prompt engineering skill influence students' academic performance?
 
 
 Data Cleansing:
