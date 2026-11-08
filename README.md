@@ -23,8 +23,9 @@ Whether you're a researcher, educator, data scientist, or policymaker, this data
 
 <img width="993" height="494" alt="Q2" src="https://github.com/user-attachments/assets/be1db70b-0db3-412e-af4a-69c5db99fc71" />
 
-
-
+**Insights:**
+- There is a slight negative relationship between weekly GenAI usage (0 to 40 hours) and traditional study hours (0 to 35 hours), showing that as students rely more on AI, their dedicated non-AI study time slightly decreases.
+- EdTech companies can position AI products as efficiency tools that reduce manual study time, but educators must ensure AI is used to enhance study habits rather than completely replace core learning efforts.
 
 ### 3. Which academic majors uses AI the most?
 
