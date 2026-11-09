@@ -108,6 +108,10 @@ The following eight business questions were developed to explore the impact of G
 - The GPA distribution shows a dramatic spike at 4.0, where nearly 5,800 students reach the maximum score compared to a steady spread of around 1,000 to 1,500 students per bin across the 3.0–3.9 range.
 - Educational analytics providers and institutions should account for ceiling effects in GPA metrics, as standard GPA scores alone may obscure finer differences in student performance and learning growth.
 
+### Intermediate Conclusion
+The eight business questions provide an overall understanding of how Generative AI is integrated into students' academic lives. The analysis explores AI adoption patterns, academic performance, traditional study habits, skill retention and student well-being. While Generative AI offers students additional support for learning, research and academic tasks, its growing use also raises questions about AI dependency, independent learning and burnout. Overall, the findings highlight the importance of balancing AI-assisted learning with traditional study practices to support students' academic development and well-being.
+
+
 ## Google Data Studio (Dashboard)
 
 Here is the link to the Impact of AI on Students dashboard, developed based on the six selected business questions. It provides interactive visualisations and insights into AI usage patterns, academic performance, skill retention and student well-being.
