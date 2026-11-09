@@ -113,7 +113,8 @@ Here is the link to the Impact of AI on Students dashboard, developed based on t
 
 https://datastudio.google.com/reporting/4a84b489-215e-4090-ad84-ac3c7f4455d3
 
-<img width="1911" height="906" alt="Screenshot 2026-11-09 164607" src="https://github.com/user-attachments/assets/69b89b04-83cf-40a0-a629-32a260b2386c" />
+<img width="1917" height="830" alt="Screenshot 2026-11-09 170052" src="https://github.com/user-attachments/assets/e1f58102-5dad-47c7-800c-2dfc158fceab" />
+
 
 
 ## Predictive Modelling (Regression) 
