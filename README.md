@@ -106,6 +106,9 @@ You are a professional data analyst. Carefully inspect the entire dataset and cl
 
 ## Google Data Studio (Dashboard)
 
+Here is the link to the Impact of AI on Students dashboard, developed based on the six selected business questions. It provides interactive visualisations and insights into AI usage patterns, academic performance, skill retention and student well-being.
+
+https://datastudio.google.com/reporting/4a84b489-215e-4090-ad84-ac3c7f4455d3
 
 
 ## Predictive Modelling (Regression) 
