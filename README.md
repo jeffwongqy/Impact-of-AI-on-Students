@@ -87,6 +87,23 @@ You are a professional data analyst. Carefully inspect the entire dataset and cl
 - Median post-semester GPA remains nearly identical across all prompt engineering skill levels, peaking slightly at ~3.48 for Advanced users compared to ~3.40 for both Beginner and Intermediate levels.
 - EdTech platforms should avoid marketing prompt engineering skills as a direct driver of higher academic grades, and instead focus on positioning these skills around workflow efficiency, creativity, and time management.
 
+### 7. What are the most common purposes for which students use Generative AI?
+
+<img width="871" height="475" alt="Q7" src="https://github.com/user-attachments/assets/5a6bb6f8-0c02-4034-a45d-75737530bfb6" />
+
+**Insights:**
+- Debugging/Troubleshooting (24.6%) and Copywriting/Drafting (24.0%) are the top student use cases, together making up nearly half (48.6%) of AI activity, whereas Direct Answer Generation accounts for the smallest share at 12.7%.
+- EdTech developers should focus product optimization and marketing on technical troubleshooting, writing assistance, and ideation features (21.4%), which represent the vast majority of organic student demand.
+
+
+### 8. What is the distribution of student's post-semester GPA?
+
+<img width="1189" height="495" alt="Q8" src="https://github.com/user-attachments/assets/a036b108-0c88-40d3-8926-ac2d71a77691" />
+
+**Insights:**
+- The GPA distribution shows a dramatic spike at 4.0, where nearly 5,800 students reach the maximum score compared to a steady spread of around 1,000 to 1,500 students per bin across the 3.0–3.9 range.
+- Educational analytics providers and institutions should account for ceiling effects in GPA metrics, as standard GPA scores alone may obscure finer differences in student performance and learning growth.
+
 ## Google Data Studio (Dashboard)
 
 
