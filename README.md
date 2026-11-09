@@ -124,5 +124,5 @@ Predictive modelling was implemented using multiple linear regression to examine
 
 
 
-References:
+## References
 https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students
