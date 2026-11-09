@@ -36,6 +36,7 @@ You are a professional data analyst. Carefully inspect the entire dataset and cl
 
 
 ## **Business Questions:**
+The following eight business questions were developed to explore the impact of Generative AI on students, focusing on academic performance, AI usage patterns, study behaviour, skill retention and psychological well-being. These questions guide the data analysis and dashboard development to uncover meaningful insights and trends.
 
 ### 1. Does using AI more frequently affect students' academic performance?
 
