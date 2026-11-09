@@ -1,6 +1,6 @@
 # Impact of AI on Students
 
-<img width="717" height="428" alt="images" src="https://github.com/user-attachments/assets/ddfed5cb-85a4-4d1a-8333-79b875ae3c5c" />
+<img width="800" height="428" alt="images" src="https://github.com/user-attachments/assets/ddfed5cb-85a4-4d1a-8333-79b875ae3c5c" />
 
 
 ## **Background**
