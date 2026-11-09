@@ -112,9 +112,10 @@ https://datastudio.google.com/reporting/4a84b489-215e-4090-ad84-ac3c7f4455d3
 
 
 ## Predictive Modelling (Regression) 
+Predictive modelling was implemented using multiple linear regression to examine how AI usage patterns, study habits and other student-related factors are associated with post-semester GPA. The objective is to understand how these factors contribute to predicting students' academic performance after adopting Generative AI tools.
 
 
-1. Connection Between Six Business Questions and Regression
+**Post-Semester GPA was selected as the prediction target because it provides a measurable indicator of students' academic performance after using Generative AI.** It directly connects to the eight business questions by allowing us to examine how AI usage patterns, study habits, academic background, prompt engineering skills, AI dependency, skill retention and student well-being relate to academic outcomes. Using multiple linear regression, the project aims to predict students' post-semester GPA based on these relevant features, extending the dashboard analysis from identifying trends and relationships to predictive modelling.
 
 
 
