@@ -123,17 +123,17 @@ https://datastudio.google.com/reporting/4a84b489-215e-4090-ad84-ac3c7f4455d3
 
 
 ## Predictive Modelling (Regression) 
-Predictive modelling was conducted using multiple linear regression to examine the relationships between students' AI usage patterns, study habits, and other student-related factors and their post-semester GPA. The objective was to determine how these factors can be used to predict students' academic performance after adopting Generative AI tools.
+Predictive modelling was conducted using multiple regression-based machine learning models to examine the relationships between students' Generative AI usage patterns, study habits, and other student-related factors and their post-semester GPA. The objective was to determine whether these factors could be used to predict students' academic performance after adopting Generative AI tools.
 
-**Post-Semester GPA was selected as the prediction target because it provides a measurable indicator of students' academic performance after using Generative AI.** It also addresses the eight business questions by examining how AI usage patterns, study habits, academic background, prompt engineering skills, AI dependency, skill retention, and student well-being relate to academic outcomes. By using multiple linear regression, the project aims to predict post-semester GPA based on these relevant factors, extending the dashboard analysis beyond identifying trends and relationships to understanding their predictive value.
+Post-Semester GPA was selected as the prediction target because it provides a measurable indicator of students' academic performance following the adoption of Generative AI. It also addresses the eight business questions by examining how AI usage patterns, study habits, academic background, prompt engineering skills, AI dependency, skill retention, and student well-being relate to academic outcomes. By predicting post-semester GPA using these relevant factors, the project extends the dashboard analysis beyond identifying trends and relationships to evaluating the predictive value of these factors.
 
-**Evaluation Results:**
+The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) on both the training and testing datasets.
 
 <img width="582" height="166" alt="train_res" src="https://github.com/user-attachments/assets/9f41d2e4-b5f3-4214-bdd3-d1b032e8f046" />
 
 <img width="485" height="167" alt="test_res" src="https://github.com/user-attachments/assets/86ad5b03-c416-46a2-8de9-ca5e2b58da4e" />
 
-Gradient Boosting Regressor (GBR) is the most optimal model for prediction. It achieves the lowest Test MAE, MSE, and RMSE, together with the highest R2. Its training and tesitng performance are also relatively consistent, indicating good predictive accuracy and less overfitting compared to the other models. 
+Gradient Boosting Regressor (GBR) was identified as the most suitable model for prediction. It achieved the lowest testing MAE (0.1144), MSE (0.0210), and RMSE (0.1449), together with the highest testing R² (0.9130). These results indicate that GBR provides the most accurate predictions among the four models and explains approximately 91.3% of the variation in post-semester GPA in the testing dataset. Its training and testing performance are also relatively consistent, suggesting better generalisation and less overfitting than the Decision Tree Regressor (DTR) and Extra Trees Regressor (ETR).
 
 
 
