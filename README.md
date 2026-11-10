@@ -127,7 +127,13 @@ Predictive modelling was implemented using multiple linear regression to examine
 
 **Post-Semester GPA was selected as the prediction target because it provides a measurable indicator of students' academic performance after using Generative AI.** It directly connects to the eight business questions by allowing us to examine how AI usage patterns, study habits, academic background, prompt engineering skills, AI dependency, skill retention and student well-being relate to academic outcomes. Using multiple linear regression, the project aims to predict students' post-semester GPA based on these relevant features, extending the dashboard analysis from identifying trends and relationships to predictive modelling.
 
-TBC
+**Evaluation Results:**
+
+<img width="582" height="166" alt="train_res" src="https://github.com/user-attachments/assets/9f41d2e4-b5f3-4214-bdd3-d1b032e8f046" />
+
+<img width="485" height="167" alt="test_res" src="https://github.com/user-attachments/assets/86ad5b03-c416-46a2-8de9-ca5e2b58da4e" />
+
+Gradient Boosting Regressor (GBR) is the most optimal model for prediction. It achieves the lowest Test MAE, MSE, and RMSE, together with the highest R2. Its training and tesitng performance are also relatively consistent, indicating good predictive accuracy and less overfitting compared to the other models. 
 
 
 
