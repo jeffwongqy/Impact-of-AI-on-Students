@@ -38,78 +38,47 @@ You are a professional data analyst. Carefully inspect the entire dataset and cl
 ## **Business Questions:**
 The following eight business questions were developed to explore the impact of Generative AI on students, focusing on academic performance, AI usage patterns, study behaviour, skill retention and psychological well-being. These questions guide the data analysis and dashboard development to uncover meaningful insights and trends.
 
-### 1. Does using AI more frequently affect students' academic performance?
+## **Generative AI usage and academic performance**
 
-<img width="996" height="494" alt="Q1" src="https://github.com/user-attachments/assets/e3e850d4-947a-4195-868a-06a381f55794" />
+## 1. Does using Generative AI more frequently relate to better or poorer academic performance?
 
-**Insights:**
-- There is virtually no linear relationship between the number of weekly GenAI hours (ranging from 0 to 40 hours) and a student's post-semester GPA (ranging from 1.0 to 4.0), showing that higher tool usage does not inherently harm or help academic performance.
-
-- EdTech and AI platforms should pivot from marketing tools based solely on time-saving or grade-boosting claims; instead, they should focus on providing quality guidance and qualitative learning outcomes to drive true value for educational institutions.
-
-
-### 2. Does AI usage reduce students traditional study time?
-
-<img width="993" height="494" alt="Q2" src="https://github.com/user-attachments/assets/be1db70b-0db3-412e-af4a-69c5db99fc71" />
+<img width="989" height="495" alt="BQ1" src="https://github.com/user-attachments/assets/b6240f68-6b3f-4c11-b5d1-03c562739f05" />
 
 **Insights:**
-- There is a slight negative relationship between weekly GenAI usage (0 to 40 hours) and traditional study hours (0 to 35 hours), showing that as students rely more on AI, their dedicated non-AI study time slightly decreases.
-- EdTech companies can position AI products as efficiency tools that reduce manual study time, but educators must ensure AI is used to enhance study habits rather than completely replace core learning efforts.
-
-### 3. Which academic majors uses AI the most?
-
-<img width="1189" height="495" alt="Q3" src="https://github.com/user-attachments/assets/3d34371d-91a1-47c5-8c7c-577bd14ce414" />
-
-**Insights:**
-- STEM majors lead GenAI adoption with highest weekly usage at ~10.5 hours, followed by Business (~8.3 hrs), Medical (~7.5 hrs), Arts (~7.3 hrs), and Humanities trailing at ~6.8 hours.
-- EdTech developers should prioritize specialized coding, technical, and analytical AI features for high-frequency STEM users while creating tailored marketing to encourage adoption among lower-use majors like Humanities.
+- Students spending 40 weekly hours on GenAI achieve GPAs spanning the full 1.0 to 4.0 range, showing no major difference compared to students with low usage hours.
+- For the business, this means product development should focus on guiding effective AI interaction rather than limiting student usage time.
 
 
-### 4. Does AI dependency affect students' skill retention?
+## 2. Which academic majors have the highest Generative AI usage, and how does their GPA compare?
 
-<img width="1189" height="494" alt="Q4" src="https://github.com/user-attachments/assets/9f43eaf8-c5be-4e0b-a75d-afec05f6d91f" />
+<img width="989" height="495" alt="BQ2a" src="https://github.com/user-attachments/assets/7685e935-e359-4c20-8eba-cbf3c7a0a62f" />
 
 **Insights:**
-- High AI dependency reduces the median skill retention score to ~71, compared to ~76 for both Low and Moderate AI dependency groups.
-- EdTech platforms and training providers should design interactive learning features that limit over-reliance on AI, ensuring users retain core skills alongside automated assistance.
+- STEM and Medical majors lead slightly with an average GPA of ~3.35, while Business scores lowest at ~3.32, creating a minimal variance of only ~0.03 points across all five categories.
+- For the business, this uniform baseline performance across disciplines indicates that academic major is not a key driver of GPA differences, so educational products or interventions can be broadly standardized across fields rather than customized by major.
 
 
-### 5. Which students have the highest burnout risk?
-
-<img width="1189" height="495" alt="Q5" src="https://github.com/user-attachments/assets/7ba17a0d-e098-471d-b93e-71877b590938" />
+<img width="989" height="495" alt="BQ2b" src="https://github.com/user-attachments/assets/67be24be-9ec7-40ff-a95d-0696d0aef983" />
 
 **Insights:**
-- Students with High AI Usage face the highest High Burnout Risk at ~56%, which is over 2.5 times higher than Medium Usage (~21%) and nearly 5.6 times higher than Low Usage (~10%).
-- EdTech platforms and universities must incorporate wellness features, workload management, and healthy usage guidelines into AI tools to prevent student over-reliance and burnout.
+- STEM majors record the highest average usage at ~10.5 hours per week, which is significantly higher than Business (~8.25 hours), Medical (~7.5 hours), Arts (~7.25 hours), and Humanities (~6.75 hours).
+- For the business, this ~3.75-hour gap between STEM and Humanities highlights higher product adoption in technical disciplines, indicating marketing and product expansion should focus on increasing engagement within non-STEM majors.
 
 
-### 6. Does prompt engineering skill influence students' academic performance?
+## 3. Do students who use Generative AI for different purposes achieve different academic results?
 
-<img width="1189" height="495" alt="Q6" src="https://github.com/user-attachments/assets/c21f44a4-7c45-4f0b-90b3-3ffbfe5fa684" />
+
+<img width="984" height="494" alt="BQ3" src="https://github.com/user-attachments/assets/35ab8dd9-c4ec-4dfd-a439-f59a4baa37f3" />
+
 
 **Insights:**
-- Median post-semester GPA remains nearly identical across all prompt engineering skill levels, peaking slightly at ~3.48 for Advanced users compared to ~3.40 for both Beginner and Intermediate levels.
-- EdTech platforms should avoid marketing prompt engineering skills as a direct driver of higher academic grades, and instead focus on positioning these skills around workflow efficiency, creativity, and time management.
-
-### 7. What are the most common purposes for which students use Generative AI?
-
-<img width="871" height="475" alt="Q7" src="https://github.com/user-attachments/assets/5a6bb6f8-0c02-4034-a45d-75737530bfb6" />
-
-**Insights:**
-- Debugging/Troubleshooting (24.6%) and Copywriting/Drafting (24.0%) are the top student use cases, together making up nearly half (48.6%) of AI activity, whereas Direct Answer Generation accounts for the smallest share at 12.7%.
-- EdTech developers should focus product optimization and marketing on technical troubleshooting, writing assistance, and ideation features (21.4%), which represent the vast majority of organic student demand.
 
 
-### 8. What is the distribution of student's post-semester GPA?
+## 4. Does using a wider variety of AI tools relate to higher post-semester GPA?
 
-<img width="1189" height="495" alt="Q8" src="https://github.com/user-attachments/assets/a036b108-0c88-40d3-8926-ac2d71a77691" />
+<img width="989" height="495" alt="BQ4" src="https://github.com/user-attachments/assets/d71461e8-dc0c-409b-b438-28f0c0d8c3a3" />
 
 **Insights:**
-- The GPA distribution shows a dramatic spike at 4.0, where nearly 5,800 students reach the maximum score compared to a steady spread of around 1,000 to 1,500 students per bin across the 3.0–3.9 range.
-- Educational analytics providers and institutions should account for ceiling effects in GPA metrics, as standard GPA scores alone may obscure finer differences in student performance and learning growth.
-
-### Intermediate Conclusion
-The eight business questions provide an overall understanding of how Generative AI is integrated into students' academic lives. The analysis explores AI adoption patterns, academic performance, traditional study habits, skill retention and student well-being. While Generative AI offers students additional support for learning, research and academic tasks, its growing use also raises questions about AI dependency, independent learning and burnout. Overall, the findings highlight the importance of balancing AI-assisted learning with traditional study practices to support students' academic development and well-being.
 
 
 ## Google Data Studio (Dashboard)
