@@ -67,19 +67,19 @@ The following eight business questions were developed to explore the impact of G
 
 ## 3. Do students who use Generative AI for different purposes achieve different academic results?
 
-
 <img width="984" height="494" alt="BQ3" src="https://github.com/user-attachments/assets/35ab8dd9-c4ec-4dfd-a439-f59a4baa37f3" />
 
-
 **Insights:**
-
+- Debugging/Troubleshooting yields the highest median GPA (~3.5), whereas Direct Answer Generation results in the lowest median GPA (~3.35), showing a minimal gap of about 0.15 GPA points across primary use cases.
+- For the business, this slight advantage for problem-solving use cases indicates product feature development should prioritize interactive problem-solving tools over direct content generation.
 
 ## 4. Does using a wider variety of AI tools relate to higher post-semester GPA?
 
 <img width="989" height="495" alt="BQ4" src="https://github.com/user-attachments/assets/d71461e8-dc0c-409b-b438-28f0c0d8c3a3" />
 
 **Insights:**
-
+- Students using 5 distinct AI tools average a 3.35 GPA compared to 3.33 for students using only 1 or 2 tools, demonstrating a negligible difference of just ~0.02 GPA points across all tool counts.
+- For the business, this flat distribution means bundling multiple niche AI features does not drive measurable academic improvement, so product strategies should focus on enhancing core platform quality rather than tool diversity.
 
 ## Google Data Studio (Dashboard)
 
