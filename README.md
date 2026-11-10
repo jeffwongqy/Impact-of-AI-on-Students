@@ -133,6 +133,12 @@ The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (M
 
 <img width="485" height="167" alt="test_res" src="https://github.com/user-attachments/assets/86ad5b03-c416-46a2-8de9-ca5e2b58da4e" />
 
+| Model | Train MAE | Train MSE | Train RMSE | Train R2 |
+
+
+
+
+
 
 Gradient Boosting Regressor (GBR) was identified as the most suitable model for prediction. It achieved the lowest testing MAE (0.1144), MSE (0.0210), and RMSE (0.1449), together with the highest testing R² (0.9130). These results indicate that GBR provides the most accurate predictions among the four models and explains approximately 91.3% of the variation in post-semester GPA in the testing dataset. Its training and testing performance are also relatively consistent, suggesting better generalisation and less overfitting than the Decision Tree Regressor (DTR) and Extra Trees Regressor (ETR).
 
