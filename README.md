@@ -134,6 +134,7 @@ The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (M
 <img width="485" height="167" alt="test_res" src="https://github.com/user-attachments/assets/86ad5b03-c416-46a2-8de9-ca5e2b58da4e" />
 
 | Model | Train MAE | Train MSE | Train RMSE | Train R2 |
+|:---| :---| :---| :---| 
 
 
 
