@@ -135,6 +135,11 @@ The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (M
 
 | Model | Train MAE | Train MSE | Train RMSE | Train R2 |
 |:---|:---|:---|:---|:---|
+|DTR|0.000|0.000|0.000|1.000|
+|RFR|0.0452|0.00341|0.0584|0.9862|
+|GBR|0.1141|0.02103|0.1450|0.9148|
+|ETR|0.000|0.000|0.000|1.000|
+
 
 
 
