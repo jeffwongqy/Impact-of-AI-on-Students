@@ -129,19 +129,20 @@ Post-Semester GPA was selected as the prediction target because it provides a me
 
 The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) on both the training and testing datasets.
 
-<img width="582" height="166" alt="train_res" src="https://github.com/user-attachments/assets/9f41d2e4-b5f3-4214-bdd3-d1b032e8f046" />
-
-<img width="485" height="167" alt="test_res" src="https://github.com/user-attachments/assets/86ad5b03-c416-46a2-8de9-ca5e2b58da4e" />
-
 | Model | Train MAE | Train MSE | Train RMSE | Train R2 |
 |:---|:---|:---|:---|:---|
-|DTR|0.000|0.000|0.000|1.000|
+|DTR|0.0000|0.0000|0.0000|1.0000|
 |RFR|0.0452|0.00341|0.0584|0.9862|
-|GBR|0.1141|0.02103|0.1450|0.9148|
-|ETR|0.000|0.000|0.000|1.000|
+|GBR|0.1141|0.0210|0.1450|0.9148|
+|ETR|0.0000|0.0000|0.0000|1.0000|
 
 
-
+| Model | Test MAE | Test MSE | Test RMSE | Test R2 |
+|:---|:---|:---|:---|:---|
+|DTR|0.1716|0.0495|0.2225|0.7948|
+|RFR|0.1207|0.0237|0.1541|0.9017|
+|GBR|0.1144|0.0210|0.1449|0.9130|
+|ETR|0.1203|0.0234|0.1531|0.9029|
 
 
 
