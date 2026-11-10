@@ -1,4 +1,4 @@
-# Impact of AI on Students
+# How does Generative AI usage, together with students' study habits and learning behaviours, influence their academic performance, and can we predict their post-semester GPA?
 
 <img width="800" height="428" alt="images" src="https://github.com/user-attachments/assets/ddfed5cb-85a4-4d1a-8333-79b875ae3c5c" />
 
