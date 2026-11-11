@@ -81,6 +81,32 @@ The following eight business questions were developed to explore the impact of G
 - Students using 5 distinct AI tools average a 3.35 GPA compared to 3.33 for students using only 1 or 2 tools, demonstrating a negligible difference of just ~0.02 GPA points across all tool counts.
 - For the business, this flat distribution means bundling multiple niche AI features does not drive measurable academic improvement, so product strategies should focus on enhancing core platform quality rather than tool diversity.
 
+## **B. AI Skills and Learning Effectiveness**
+
+## 5. Do students with better prompt engineering skills achieve higher academic performance?
+
+<img width="989" height="495" alt="BQ5" src="https://github.com/user-attachments/assets/02a585c5-a8a3-46ef-9892-c6f7f9291aac" />
+
+**Insights:**
+- Advanced prompt engineers achieve a slightly higher median GPA (~3.45) compared to both Beginners (~3.40) and Intermediates (~3.40), representing a minimal variance of only ~0.05 GPA points.
+- For the business, this uniform outcome suggests that specialized prompt engineering training yields minimal direct academic gains, meaning educational AI platforms should focus on integrated core learning support rather than standalone prompting tutorials.
+
+## 6. Do students with better skill retention achieve higher post-semester GPA?
+
+<img width="989" height="495" alt="BQ6" src="https://github.com/user-attachments/assets/c171eacd-0748-474b-923f-f87ae64f06ca" />
+
+**Insights:**
+- High performers with 4.0 GPAs spans across retention scores from 40 to 100, while low GPAs below 2.0 become far less frequent as retention scores rise above 60.
+- For the business, this positive relationship indicates that product features designed to improve knowledge retention directly support academic success, justifying investment in retention-boosting learning modules.
+
+## 7. Do students with different levels of AI dependency achieve higher academic performance?
+
+<img width="989" height="495" alt="BQ7" src="https://github.com/user-attachments/assets/db731495-06f7-44f7-88d5-8e5bba42afe3" />
+
+**Insights:**
+- High AI-dependent students average a ~3.38 GPA compared to ~3.35 for Low AI-dependent students, showing an insignificant gap of only ~0.03 GPA points across dependency levels.
+- For the business, this uniform performance indicates that high AI reliance does not harm student grades, allowing products to focus on engagement and learning quality without risk of hurting academic outcomes.
+
 ## Google Data Studio (Dashboard)
 
 Here is the link to the Impact of AI on Students dashboard, developed based on the six selected business questions. It provides interactive visualisations and insights into AI usage patterns, academic performance, skill retention and student well-being.
