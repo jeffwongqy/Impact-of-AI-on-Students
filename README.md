@@ -112,9 +112,8 @@ The following eight business questions were developed to explore the impact of G
 <img width="989" height="495" alt="output" src="https://github.com/user-attachments/assets/904dc7de-7723-4eaa-a59a-07b22c7e29b3" />
 
 **Insights:**
-- Median skill retention scores stay steady at ~75 to ~76 for dependency levels 1 through 6, but drop sharply to ~65 at level 10, creating an 11-point decline.
-- For the business, this drop shows that over-reliance on AI harms long-term learning, meaning the platform should add active recall prompts or guardrails when user dependency rises above level 6.
-
+- Students at dependency levels 1 through 6 maintain steady median skill retention scores of ~75 to ~76, whereas students at level 10 drop sharply to a median score of ~65, resulting in an 11-point decline.
+- This steep drop after level 6 shows that heavy AI reliance harms long-term learning, meaning the platform should introduce active recall checks or usage guardrails when dependency rises above level 6.
 
 ## Google Data Studio (Dashboard)
 
