@@ -99,13 +99,22 @@ The following eight business questions were developed to explore the impact of G
 - High performers with 4.0 GPAs spans across retention scores from 40 to 100, while low GPAs below 2.0 become far less frequent as retention scores rise above 60.
 - For the business, this positive relationship indicates that product features designed to improve knowledge retention directly support academic success, justifying investment in retention-boosting learning modules.
 
-## 7. Do students with different levels of AI dependency achieve higher academic performance?
+## 7. Does depending too much on Generative AI relate to poorer academic performance?
 
 <img width="989" height="495" alt="BQ7" src="https://github.com/user-attachments/assets/db731495-06f7-44f7-88d5-8e5bba42afe3" />
 
 **Insights:**
 - High AI-dependent students average a ~3.38 GPA compared to ~3.35 for Low AI-dependent students, showing an insignificant gap of only ~0.03 GPA points across dependency levels.
 - For the business, this uniform performance indicates that high AI reliance does not harm student grades, allowing products to focus on engagement and learning quality without risk of hurting academic outcomes.
+
+## 8. Do students with different levels of AI dependency have different skill retention scores?
+
+<img width="989" height="495" alt="output" src="https://github.com/user-attachments/assets/904dc7de-7723-4eaa-a59a-07b22c7e29b3" />
+
+**Insights:**
+- Median skill retention scores stay steady at ~75 to ~76 for dependency levels 1 through 6, but drop sharply to ~65 at level 10, creating an 11-point decline.
+- For the business, this drop shows that over-reliance on AI harms long-term learning, meaning the platform should add active recall prompts or guardrails when user dependency rises above level 6.
+
 
 ## Google Data Studio (Dashboard)
 
